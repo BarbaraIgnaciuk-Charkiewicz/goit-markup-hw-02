@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap'); 
 body {
-    font-family: roboto, sans-serif;
+    font-family:"roboto, sans-serif";
     color: #212121;
 }
 .logo-block{
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 1.19;
 text-decoration: none;
 }
 span{
@@ -17,7 +16,7 @@ span{
 .menu {
     font-size: 14px;
     font-weight: 500;
-    line-height: 16.41px;
+    line-height: 1.17;
     cursor: pointer;
 }
 .link-menu{
@@ -46,7 +45,7 @@ span{
 .title {
 font-weight: 900;
 font-size: 44px;
-line-height: 60px;
+line-height: 1.36;
 color: #FFFFFF;
 text-align: center;
 }
@@ -54,39 +53,39 @@ text-align: center;
     background-color:#2196F3;
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.88;
     color:#FFFFFF;
+    cursor: pointer;
 }
 .title-lorem-ipsum{
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
 }
 .text{
 font-size: 14px;
-line-height: 24px;
+line-height: 1.71;
 color: #757575;
 }
 .title-section{
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
 }
 .our-tem{
 font-weight: 500;
 font-size: 16px;
-line-height: 19px;
+line-height: 1.19;
 }
 .workplace-item{
-    font-weight: 400;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.19;
     color: #757575;
 }
 .footer{
     background: #2F303A;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: #FFFFFF;
     text-decoration: none;
 }
@@ -97,7 +96,8 @@ color: #FFFFFF;
 .button-portfolio{
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.63;
+    cursor: pointer;
 }
 .button-portfolio:hover{
 	background-color:#2196F3;
@@ -110,10 +110,10 @@ color: #FFFFFF;
 .item-list{
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2;
 }
 .text-list{
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.88;
     color: #757575;
 }
